@@ -11,5 +11,5 @@ crontab -e
 
 and add this line at the end of file:
 
-@reboot bash /home/amir/Desktop/chnageDesktopBackground
+@reboot bash /home/amir/Desktop/chnageDesktopBackground/main.sh
 
