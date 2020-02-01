@@ -50,6 +50,7 @@ imagefile = open(current_path+"/a.jpg" , "wb")
 
 imagefile.write(image_response.content)
 
+imagefile.close()
 
 
 
